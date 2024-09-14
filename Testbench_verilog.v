@@ -3,7 +3,7 @@
 // Company: 
 // Engineer: 
 // 
-// Create Date: 12.08.2024 08:40:45
+// Create Date: 16.08.2024 08:45:34
 // Design Name: 
 // Module Name: Traffic_Light_Controller_TB
 // Project Name: 
